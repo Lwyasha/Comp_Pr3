@@ -1,0 +1,2 @@
+main: C:\Comp\Pr3_load\main.c C:\Comp\Pr3_load\f.c C:\Comp\Pr3_load\s.c C:\Comp\Pr3_load\load.c
+	gcc -o C:\Comp\Pr3_load\loadmain.exe C:\Comp\Pr3_load\main.c C:\Comp\Pr3_load\f.c C:\Comp\Pr3_load\s.c load.c

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1665916418 source:c:\comp\pr3\f.c
+	<time.h>
+
+1665916418 source:c:\comp\pr3\s.c
+	<time.h>
+
+1666024535 source:c:\comp\pr3_load\load.c
+	"load.h"
+	"fun.h"
+	<stdio.h>
+	<windows.h>
+
+1665823434 c:\comp\pr3_load\load.h
+
+1665916022 c:\comp\pr3\fun.h
+
+1665918558 source:c:\comp\pr3_load\main.c
+	"load.h"
+	<stdio.h>
+
+1665916022 c:\comp\pr3_load\fun.h
+
